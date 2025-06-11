@@ -46,6 +46,7 @@ composer install
 ```
 
 ## Structure
+```
 CineViews/
 ├── **index.php**                 # Main router and route map (AltoRouter)
 ├── **database.php**              # All DB interaction functions
@@ -58,6 +59,7 @@ CineViews/
 ├── user_read.ini                 # DB creds (excluded from repo)
 ├── user_edit.ini                 # DB creds (excluded from repo)
 ├── README.md                     # You’re reading it
+```
 
 ## Security & Validation
 
