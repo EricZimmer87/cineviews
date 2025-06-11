@@ -77,7 +77,20 @@ CineViews/
 
 ## Screenshots
 
-> Coming soon – UI samples of home, movie list, detail, review submission, admin interface, etc.
+### Homepage
+![Homepage](images/CineViews-Home.png)
+
+### Browse Page
+![Browse](images/CineViews-Browse.png)
+
+### Movie Details Page
+![Movie Details](images/CineViews-Movie.png)
+
+### User Account Page
+![User Account Page](images/CineViews-AccountInfo.png)
+
+### Users Page (Admin Only)
+![Users](images/CineViews-Users.png)
 
 ## Developer
 
