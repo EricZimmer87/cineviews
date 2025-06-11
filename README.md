@@ -48,9 +48,9 @@ composer install
 ## Structure
 ```
 CineViews/
-├── **index.php**                 # Main router and route map (AltoRouter)
-├── **database.php**              # All DB interaction functions
-├── **templates/**                # All Plates-based views
+├── index.php                     # Main router and route map (AltoRouter)
+├── database.php                  # All DB interaction functions
+├── templates/                    # All Plates-based views
 ├── vendor/                       # Altorouter, Composer, League, and Templates
 ├── .htaccess                     # Redirects all non-file requests to index.php (for clean routing)
 ├── composer.json                 # Lists required PHP packages and project metadata
@@ -60,6 +60,11 @@ CineViews/
 ├── user_edit.ini                 # DB creds (excluded from repo)
 ├── README.md                     # You’re reading it
 ```
+
+> **Note:** Most of the core logic can be found in:
+> - `index.php` – main routing logic and route definitions
+> - `database.php` – all database interaction functions
+> - `templates/` – all HTML views and dynamic content using Plates templating
 
 ## Security & Validation
 
