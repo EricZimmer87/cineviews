@@ -4,7 +4,7 @@ CineViews is a full-featured movie review web application where users can browse
 
 This project was built from scratch using raw PHP, AltoRouter, Plates (PHP template engine), and MySQL — as a semester-long capstone at Central Community College. It earned **perfect scores across all evaluation stages** and **high praise from the instructor**. The full site was completed in ~2–3 weeks.
 
-## 🌐 Live Demo
+## Live Demo
 
 [https://ejzimmer.com/CineViews/](https://ejzimmer.com/CineViews/)
 
