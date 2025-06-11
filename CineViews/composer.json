@@ -1,0 +1,13 @@
+{
+    "name": "ericzimmer/cine-views",
+    "authors": [
+        {
+            "name": "EricZimmer87",
+            "email": "ericzimmer87@icloud.com"
+        }
+    ],
+    "require": {
+        "altorouter/altorouter": "^2.0",
+        "league/plates": "^3.5"
+    }
+}
